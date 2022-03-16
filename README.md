@@ -1,0 +1,13 @@
+#👋 Hi, I’m @baremikkel
+- Im a 20 years old male and live in Odense Denmark.
+#👀 I’m interested in ...
+
+#🌱 I’m currently learning ...
+- Im currently 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+baremikkel/baremikkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
